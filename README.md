@@ -1,16 +1,42 @@
-## Hi there 👋
+#### Hello there 👋
+**Full Stack Software Engineer** by day ☼  
+Building reliable systems where software meets the real world ☾
 
-<!--
-**ffernandojp/ffernandojp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently working on **SaaS platforms** and **industrial IoT integrations**.  
+Developing a **mobile-oriented Blockchain prototype (Hyperledger Fabric)** focused on real-world traceability.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ **I work daily with**  
+Node.js · Python · React  
+PostgreSQL · Redis · Docker · Linux  
+
+🧪 **Testing & Quality**  
+Vitest · Pytest · GitHub Actions  
+
+☁️ **Also familiar with**  
+Event-driven architectures · DB-level triggers  
+AWS Lambda (introductory knowledge) · orchestration concepts
+
+---
+
+🧠 **How I approach software**  
+Design first, code second.  
+Solve the problem once — and solve it well.  
+Automation over repetition, clarity over cleverness.
+
+---
+
+🌱 **Interested in**  
+IoT applied to real operations  
+Applied Blockchain (beyond research)  
+Automation, resilience and system reliability
+
+---
+
+💬 **Ping me about**  
+Backend architecture · IoT integrations · Offline-first systems · Software quality
+
+📫 **Reach me**  
+<!-- LinkedIn → https://www.linkedin.com/in/ffernandojperez  -->
+Email → ffernandoworks@gmail.com 
