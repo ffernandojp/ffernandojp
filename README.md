@@ -1,7 +1,7 @@
 <div align="center">
 
   # Hi 👋  
-  I'm a Software Engineer based in Argentina.
+  I'm a Software Developer based in Argentina.
 
   <br>
 
