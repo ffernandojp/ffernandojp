@@ -1,7 +1,7 @@
 <div align="center">
 
   # Hi 👋  
-  I'm a Full Stack Software Developer based in Argentina.
+  I'm a Software Developer based in Argentina.
 
   <br>
 
