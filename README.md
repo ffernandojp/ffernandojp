@@ -1,11 +1,11 @@
 <div align="center">
 
   # Hi 👋  
-  I'm a Software Developer based in Argentina.
+  I'm a Full Stack Software Developer based in Argentina.
 
   <br>
 
-  <i>Building reliable web platforms, automation tools, and scalable systems.</i>
+  <i>I enjoy building reliable software, automating processes, and refining systems until they feel simple and solid.</i>
 
   <br />
   <br />
@@ -16,8 +16,9 @@
   <br />
   <br />
 
-  > I focus on simplicity, clarity, and solving problems with code.  
-  > Whether it's a web platform or a desktop utility, I build things that work.
+  > Most of my work revolves around production systems.  
+  > In my free time, I build personal projects, explore new technologies,  
+  > and refine technical details that help me write better software.
 
   <br />
 
@@ -34,22 +35,22 @@
   <br />
   <br />
 
-  <b>📂 Some of my work</b><br>
-  Industrial IoT Middleware · Smart Finance (FinTech) · Desktop Document Automation · Insurance Management System
+  <b>📂 Selected Work</b><br>
+  SaaS Logistics Platform · Industrial IoT Middleware · FinTech Personal Finance · Desktop Process Automation
 
   <br />
   <br />
 
   <table>
     <tr>
-      <td align="center"><b>🔭 Current Focus</b></td>
-      <td align="center"><b>🌱 Curious About</b></td>
-      <td align="center"><b>⚡ How I Work</b></td>
+      <td align="center"><b>🔭 Currently Working On</b></td>
+      <td align="center"><b>🌱 Learning & Improving</b></td>
+      <td align="center"><b>⚡ How I Like to Work</b></td>
     </tr>
     <tr>
-      <td align="center">Full Stack Systems<br>Process Automation</td>
-      <td align="center">Cloud Architecture<br>IoT & AI Integration</td>
-      <td align="center">Design First<br>Keep It Simple</td>
+      <td align="center">Full Stack Systems<br>Backend APIs & Performance</td>
+      <td align="center">Machine Learning<br>Cloud & Distributed Systems</td>
+      <td align="center">Clear Design<br>Simple, Thoughtful Code</td>
     </tr>
   </table>
 
